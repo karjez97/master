@@ -10,3 +10,4 @@ def square(x):
 	return x*x
 
 print('Your own calculator!')
+print('Not great not terrible')
